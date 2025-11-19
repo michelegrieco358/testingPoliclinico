@@ -1,0 +1,25 @@
+﻿Id_Reparto,Descrizione
+ACCRIC,Accettazione ricoveri
+ADT,Addetti trasporto pazienti
+AMB,Ambulatorio 4° piano
+AMBINF,Ambulatorio 4° piano INF
+AMM,Amministrazione
+ASSSOC,Assistenti sociali
+CEN,Centralino
+CVACC,Centro vaccinale
+DH,DAY HOSPITAL
+GUA,Guardaroba
+MAG,Magazzino
+MANU,Manutenzione
+MED,Medici Specialisti
+MEDG,Medici di Guardia
+REP0,Reparto Piano Rialzato
+REP1,Reparto primo
+REP2,Reparto secondo
+REP3,Reparto terzo
+REP5,Reparto quinto
+RIA,Riabilitazione
+RIA2,Riabilitazione2
+sge,Servizi generali
+TIR,Tirocinanti
+

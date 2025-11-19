@@ -1,0 +1,35 @@
+﻿Id_Mansione,Descrizione
+000,Z - Altro
+708011,N - Medici e dirigenti sanitari non medici
+708012,N - Personale sanitario (infermieri, tecnici sanit.,riab.)
+708013,N - Dirigenti tecnici, amministrativi e professionali
+708014,N - Personale Tecnico e Ausiliario - NO oper. socio sanit.
+708015,N - Personale tecnico e ausiliario - oper. socio sanit.
+708016,N - Personale Amministrativo ( non dirigenti )
+ASA,Z- ASA
+ASSSOC,Z - Assistenza sociale
+AUS,Z -Ausiliario
+BIOTEC,Z- Biotecnologo Biologo
+CR,Z -Coordinatore Riabilitativo
+CS,Z -Caposala
+DIRSCI,Z- Direttore Scientifico
+FIS.,Z- Fisioterapista
+IG,Z - Infermiere generico
+IMP,Z -Impiegato
+IP,Z -Infermiere professionale
+LOGO,Z- Logopedista
+MAG,Z- Magazziniere
+MASS,Z- Massofisioterapista
+MEDGU,Z -Medico di guardia
+MEDSP,Z- Medico specialista
+NEURO,Z- Neuropsicologo
+OPE,Z - Operaio
+OSS,Z - OSS
+OSSK,Z- OSSK
+OST,Z- Osteopata
+PSICO,Z - PSICOLOGO
+RICS,Z -Ricercatore scientifico
+SITRA,Z- S.I.T.R.A.
+TECNF,Z -Tecnico Neurofisiologia
+TEROC,Z- Terapista occupazionale
+

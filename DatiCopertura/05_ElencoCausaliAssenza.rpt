@@ -1,0 +1,56 @@
+﻿Id_Causale,Descrizione,Sigla
+002,Riposo da turno,R
+003,Perm. non retribuito giorni,P
+009,Perm. non retribuito ore,P
+138,Ferie,F
+158,Mater. obbligatoria,M
+234,Allattamento,A
+459,Sciopero,S
+878,Provvedimento disciplinare,P
+999,Visita medica (FIGURATVO),VM
+ABAAG,Assenza generica (coopera),A
+ABAAM,Malattia (coopera),X
+AG,Assenza generica,A
+ANR,Aspettativa non retribuita,A
+ASR,Aspettativa sindacale retribuita,AS
+AVIS,Perm. donazione sangue,A
+CDFITA,Comp. debito P.G. - max 6h (fittizio),NULL
+CDFITT,Comp. debito P.G. - max 2h (fittizio),NULL
+FESG,Festività goduta,F
+FIS,Assegno ordinario FIS con ticket - non autor.,FI
+FISA,Assegno ordinario FIS con ticket - autor.,FI
+INF,Infortunio,M
+LICMAT,Licenza matrimoniale,L
+LUT,Perm. lutto,L
+MA0,Mater. facoltativa / cong. parent. orario (MA0),M
+MA2,Mater. facoltativa / cong. parent. giorn. (MA2),M
+MAL,Malattia,M
+MAR,Malattia - ricaduta/continuazione,M
+MD1,Cong. straord. fam. disabili DLGS 151/2001 (MD1),H
+PB0A,Cong. parentale > 9 mesi 30% orario (PB0),CP
+PB0B,Cong. parentale > 9 mesi 0% orario (PB0),CP
+PB1A,Cong. parentale > 9 mesi 30% giornaliero (PB1),CP
+PB1B,Cong. parentale > 9 mesi 0% giornaliero (PB1),CP
+PF1,Cong. padre obbl. 105/2022 (PF1),CP
+PFOR,Perm. formazione,P
+PMB,Perm. malattia bambino fino a 3 anni,P
+PMB8,Perm. malattia bambino da 3 a 8 anni,P
+PR,Perm. retribuito,P
+PSR,Perm. sindacale retribuito,P
+PST,Perm. studio,P
+QB5,Perm. L104 lavoratore orario (QB5),PH
+RA1G,Perm. L104 figli/parenti giorn. (RA1),PH
+RA1H,Perm. L104 figli/parenti orario (RA1),PH
+RIC,Ricovero,R
+RIR,Ricovero - ricaduta/continuazione,RR
+RITA,Ritardo entrata,R
+RITAC,Ritardo entrata (med 1min),R
+RITAM,Ritardo entrata (med 10min),R
+RO,Recupero ore,R
+TA1,Perm. L104 lavoratore giorn. (TA1),PH
+USCSER,Uscita servizio,U
+VESTR,Recupero ore vestizione,RV
+XB3,Perm. orario figlio disab. fino a 3 anni (XB3),PH
+YA1,Prol. cong. par. giorn. figlio disab. fino a 8 anni (YA1),PH
+YA2,Prol. cong. par. giorn. figlio disab. da 8 a 12 anni (YA2),PH
+
