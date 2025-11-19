@@ -1,0 +1,74 @@
+horizon:
+  start_date: 2025-11-01
+  end_date: 2025-11-30
+
+rest_rules:
+  min_between_shifts_h: 11
+  rest11_penalty_weight: 100.0
+  weekly_rest_penalty_weight: 100.0
+
+preassignments:
+  change_penalty_weight: 5.0
+
+fairness:
+  night_weight: 0.1
+  weekend_weight: 0.1
+
+defaults:
+  allowed_roles: ["infermiere", "oss", "medico", "amministrativo"]
+  departments: ["degenza", "pronto_soccorso", "ambulatorio"]
+  weekly_rest_min_days: 1
+  biweekly_rest_min_days: 2
+  contract_hours_by_role_h:
+    infermiere: 140
+    oss: 140
+    medico: 160
+    amministrativo: 120
+  absences:
+    count_as_worked_hours: true
+    full_day_hours_by_role_h:
+      INFERMIERE: 7.0
+      OSS: 7.0
+      MEDICO: 7.0
+      AMMINISTRATIVO: 7.0
+    fallback_contract_daily_avg_h: 7.0
+  rest11h:
+    max_monthly_exceptions: 2
+    max_consecutive_exceptions: 1
+  overstaffing:
+    enabled: true
+    group_cap_default: 1
+  balance:
+    max_balance_delta_month_h: 36
+    due_hours_penalty_weight: 5.0
+    final_balance_penalty_weight: 5.0
+  night:
+    max_consecutive_nights: 3
+    can_work_night: true
+    max_per_week: 2
+    max_per_month: 8
+    extra_consecutive_penalty_weight: 10.0
+    single_night_recovery_penalty_weight: 10.0
+  fairness:
+    night_weight: 0.5
+    weekend_weight: 0.5
+
+roles:
+  infermiere:
+    can_work_night: true
+  oss:
+    can_work_night: false
+  medico:
+    can_work_night: false
+  amministrativo:
+    can_work_night: false
+
+shift_types:
+  night_codes: ["N"]
+
+cross:
+  max_shifts_month: 6
+  penalty_weight: 10.0
+
+locks:
+  allow_cross_reparto: true
