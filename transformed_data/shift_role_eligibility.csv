@@ -1,0 +1,40 @@
+reparto_id,shift_code,role,ruolo,enabled
+ADT,G,OSS,Z - OSS,true
+MED,G,MEDSP,Z- Medico specialista,true
+MEDG,N,MEDGU,Z -Medico di guardia,true
+REP0,G,IP,Z -Infermiere professionale,true
+REP0,G,OSS,Z - OSS,true
+REP0,M,ASA,Z- ASA,true
+REP0,N,IP,Z -Infermiere professionale,true
+REP0,P,ASA,Z- ASA,true
+REP0,P,IP,Z -Infermiere professionale,true
+REP0,P,OSS,Z - OSS,true
+REP1,M,IP,Z -Infermiere professionale,true
+REP1,M,OSS,Z - OSS,true
+REP1,N,IP,Z -Infermiere professionale,true
+REP1,N,OSS,Z - OSS,true
+REP1,P,IP,Z -Infermiere professionale,true
+REP1,P,OSS,Z - OSS,true
+REP2,M,IP,Z -Infermiere professionale,true
+REP2,M,OSS,Z - OSS,true
+REP2,N,IP,Z -Infermiere professionale,true
+REP2,N,OSS,Z - OSS,true
+REP2,P,IP,Z -Infermiere professionale,true
+REP2,P,OSS,Z - OSS,true
+REP3,M,IP,Z -Infermiere professionale,true
+REP3,M,OSS,Z - OSS,true
+REP3,N,IP,Z -Infermiere professionale,true
+REP3,N,OSS,Z - OSS,true
+REP3,P,IP,Z -Infermiere professionale,true
+REP3,P,OSS,Z - OSS,true
+REP5,M,IP,Z -Infermiere professionale,true
+REP5,M,OSS,Z - OSS,true
+REP5,N,IP,Z -Infermiere professionale,true
+REP5,N,OSS,Z - OSS,true
+REP5,P,IP,Z -Infermiere professionale,true
+REP5,P,OSS,Z - OSS,true
+RIA,G,FIS.,Z- Fisioterapista,true
+RIA,G,LOGO,Z- Logopedista,true
+RIA,G,NEURO,Z- Neuropsicologo,true
+RIA,G,TEROC,Z- Terapista occupazionale,true
+RIA2,G,FIS,FIS,true
